@@ -3,6 +3,7 @@
 Test the demo version of our Medieval Dialogue Generator asset. Customization is limited for this demo version but all features are available in the premium version. 
 
 https://assetstore.unity.com/packages/tools/game-toolkits/medieval-dialogue-generator-234109
+Discover also the Notice for the premium Medieval Dialogue Generator version in this repo.
 
 To test this demo : 
 - Download this git project on your computer.
